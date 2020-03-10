@@ -6,3 +6,6 @@ However there was an evil collaborator named Mason who decided that he was going
 all of his files and in the end Brandon had no backups to his work. Everything was lost and Brandon was very sad. He sat in the 
 shower and cried because he tried so hard on that code. Then a hero came in, another teammate who had a working copy of Brandon's code!
 
+Version control to the rescue! Brandon put out a distress call to his valiant X-Team. Collin heard his plea for help and rushed to his
+laptop to restore Brandon's file. A few git pulls and a few git pushes later and all of Brandon's files were saved. Now, to just deal
+with that evil collaborator Mason...
