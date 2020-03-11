@@ -9,3 +9,5 @@ shower and cried because he tried so hard on that code. Then a hero came in, ano
 Version control to the rescue! Brandon put out a distress call to his valiant X-Team. Collin heard his plea for help and rushed to his
 laptop to restore Brandon's file. A few git pulls and a few git pushes later and all of Brandon's files were saved. Now, to just deal
 with that evil collaborator Mason...
+
+Brandon got together the with Collin and Richard as they planned out their revenge for Mason. The three removed Mason as a collaborator and because of that, Mason couldn't continue with the team for the group project. Three days later, when Mason realized that he has been kicked off of his X-Team, it was too late as the big project has been submitted and Mason was left with a 0. From this, Mason's never messed with anyone on github ever again. 
