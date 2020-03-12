@@ -10,4 +10,13 @@ Version control to the rescue! Brandon put out a distress call to his valiant X-
 laptop to restore Brandon's file. A few git pulls and a few git pushes later and all of Brandon's files were saved. Now, to just deal
 with that evil collaborator Mason...
 
-Brandon got together the with Collin and Richard as they planned out their revenge for Mason. The three removed Mason as a collaborator and because of that, Mason couldn't continue with the team for the group project. Three days later, when Mason realized that he has been kicked off of his X-Team, it was too late as the big project has been submitted and Mason was left with a 0. From this, Mason's never messed with anyone on github ever again. 
+Brandon got together the with Collin and Richard as they planned out their revenge for Mason.
+The three removed Mason as a collaborator and because of that, Mason couldn't continue with the team for the group project.
+Three days later, when Mason realized that he has been kicked off of his X-Team,
+it was too late as the big project has been submitted and Mason was left with a 0. 
+From this, Mason's never messed with anyone on github ever again.
+
+Brandon was relieved to have version control save the day! He was able to have his xTeam help him out in a pinch.
+The project Brandon was working ended being a critical simulation that helped develop the cure to corona virus. Because of this,
+classes were able to resume normally, and the entire world was cured of this disease. Mason was put on trial for crimes against 
+humanity and was never heard of again.
