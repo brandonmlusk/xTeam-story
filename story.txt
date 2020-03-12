@@ -1,6 +1,6 @@
-It was a dark and stormy and Brandon was creating his awesonme program using github
-He was working very quickly and was taking the first steps towards to collaborative programming.
-He was working from his apartment and the power did go out, but not to fear he had a backup so he was quickly able to restore his work.
+It was a dark and stormy night. Brandon was creating his awesonme program using github
+He was working very quickly and was taking the first steps towards collaborative programming.
+He was working from his apartment and the power did go out, but not to fear he had a backup of his work so he was quickly able to continue.
 
 However there was an evil collaborator named Mason who decided that he was going to mess with Brandon. Mason was able to change
 all of his files and in the end Brandon had no backups to his work. Everything was lost and Brandon was very sad. He sat in the 
